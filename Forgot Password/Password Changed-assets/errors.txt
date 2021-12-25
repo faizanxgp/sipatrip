@@ -1,0 +1,5 @@
+[8/19/2017, 6:03:32 PM] layer "Login.png": Duplicate path: Login.png
+[8/19/2017, 6:03:32 PM] layer "Login.png": Duplicate path: Login.png
+[8/19/2017, 6:03:32 PM] layer "Forget.png": Duplicate path: Forget.png
+[8/19/2017, 6:03:32 PM] layer "Reset.png": Duplicate path: Reset.png
+[8/19/2017, 6:03:32 PM] layer "Reset Sucess.png": Duplicate path: Reset Sucess.png
