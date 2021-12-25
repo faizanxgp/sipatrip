@@ -1,2 +1,0 @@
-[Sun Sep 17 2017 22:48:32 GMT-0700 (Pacific Daylight Time)] layer "G+": Expected end of input but "+" found.
-[Sun Sep 17 2017 22:48:32 GMT-0700 (Pacific Daylight Time)] layer "G+": Expected end of input but "+" found.
